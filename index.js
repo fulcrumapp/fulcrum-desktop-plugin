@@ -1,2 +1,1 @@
-export default class Plugin {
-}
+module.exports = class Plugin {}
