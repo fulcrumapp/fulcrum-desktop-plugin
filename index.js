@@ -1,1 +1,1 @@
-module.exports = class Plugin {}
+module.exports = global.__api__;
