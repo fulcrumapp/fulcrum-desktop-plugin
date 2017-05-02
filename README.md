@@ -1,1 +1,1 @@
-## Fulcrum Sync Plugin
+## Fulcrum Desktop Plugin

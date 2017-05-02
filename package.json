@@ -1,5 +1,5 @@
 {
-  "name": "fulcrum-sync-plugin",
+  "name": "fulcrum-desktop-plugin",
   "version": "1.4.0",
   "main": "index.js",
   "license": "MIT",
